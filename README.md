@@ -4,11 +4,11 @@
 
 <h1>Preview</h1>
 
-![](/gif/record1.gif)
+![](/gif/record.gif)
 
 <h1>Mobil Appearance</h1>
 
-![](/gif/record2.gif)
+![](/gif/mobil.gif)
 
 <h1>🧰 Technologies Used</h1>
 
